@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Web Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jasonjpulikkottil/](https://github.com/jasonjpulikkottil/)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/jasonjpulikkottil?tab=repositories)
 
 - 💬 Ask me about **C++, Java, Python, Android, Machine Learning**
 
