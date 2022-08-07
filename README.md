@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on android application development.
 
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=jasonjpulikkottil)](https://medium.com/@pjjason)
 
 ![](https://komarev.com/ghpvc/?username=jasonjpulikkottil)
 
