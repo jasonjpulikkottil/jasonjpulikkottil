@@ -5,13 +5,14 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonjpulikkottil" alt="jasonjpulikkottil" /></a> </p>
 
+
 -  I’m currently learning **Flutter, Web Design**
 
 -  All of my projects are available at [My GitHub Repositories](https://github.com/jasonjpulikkottil?tab=repositories)
 
 -  Ask me about **C++, Java, Python, Android, Machine Learning**
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linktr.ee/pjjason"> Jason J Pulikkottil On Linktree </a>
 </p>
