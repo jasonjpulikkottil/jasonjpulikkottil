@@ -16,9 +16,4 @@
 <p align="left">
 <a href="https://linktr.ee/pjjason"> Jason J Pulikkottil On Linktree </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonjpulikkottil&show_icons=true&locale=en&layout=compact" alt="jasonjpulikkottil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonjpulikkottil&show_icons=true&locale=en" alt="jasonjpulikkottil" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonjpulikkottil&" alt="jasonjpulikkottil" /></p>
