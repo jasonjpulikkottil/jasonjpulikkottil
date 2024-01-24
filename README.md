@@ -15,7 +15,7 @@
 
 -  All of my projects are available at [My GitHub Repositories](https://github.com/jasonjpulikkottil?tab=repositories)
 
--  Ask me about **C++, Java, Python, Android**
+-  Ask me about **Laravel**
 
 ## Connect with me:
 <p align="left">
